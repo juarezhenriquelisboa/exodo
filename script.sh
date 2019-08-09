@@ -17,7 +17,8 @@ echo "Instalando pilha de Desenvolvimento JAVA:"
 	
 	apt-get update
 	
-	apt-get install oracle-java9-installer
+	#apt-get install oracle-java9-installer
+	#java9 já está desatualizado 
 
 	wget http://download.netbeans.org/netbeans/8.2/final/zip/netbeans-8.2-201609300101.zip -O netbeans.zip
 
